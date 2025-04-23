@@ -17,3 +17,7 @@ Here are some of the cool things I’ve built:
 - 🔍 [**Fake News Detection App**](https://github.com/your-username/fake-news-detector) – A machine learning app that flags fake news
 - 💊 [**Parkison's Disease Prediction**](https://www.kaggle.com/code/varshayadav2902/parkison-s-disease-prediction) – Machine Learning App
 
+### 🛠️ Deployment Platforms Used : 
+- Github Pages
+- Vercel
+- Render
