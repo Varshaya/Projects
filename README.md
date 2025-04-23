@@ -10,7 +10,7 @@ Here are some of the cool things I’ve built:
 - 🗒️ [**TextBunny**](https://textbunny-2hfcojxbj-varshayas-projects.vercel.app/) – React-based text utility application
 - ☀️ [**Weather App**](https://varshaya.github.io/weather-app/) - Javascrit based weather application (uses weather api)
 - 📅 [**React Daily Planner**](https://github.com/varshaya.github.io/react-planner) – React-based planner with calendar, clock, to-do list & Notes
-- 📱 [**Weather App**](https://varshaya.github.io/QR-code-generator/) - Qr code generator app.
+- 📱 [**QR Code Generator**](https://varshaya.github.io/QR-code-generator/) - Qr code generator app.
 
 #### Machine Learning Projects:
 - 📚 [**Book Recommender System**](https://book-recommender-sys-h2rj.onrender.com) – Personalized book recommendations based on fuzzy matching
