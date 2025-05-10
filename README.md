@@ -1,4 +1,4 @@
-# Projects Repo
+# Projects Repository
 This repository contains link to all my previous works.
 
 ### 🧪 Projects
@@ -8,6 +8,7 @@ Here are some of the cool things I’ve built:
 #### Web Development Projects 🔍:
 - 💻 [**EduBright**] - Built Using : Html5, CSS3, Bootstrap, PHP, MYSQL, WampServer  - An E-Learning Site with Authentication System
 - 🗒️ [**TextBunny**](https://textbunny-2hfcojxbj-varshayas-projects.vercel.app/) – React-based text utility application
+- 🍓 [**Pomodoro Timer**](https://timer-self-five.vercel.app/) - A Pomodoro Focus Timer 
 - ☀️ [**Weather App**](https://varshaya.github.io/weather-app/) - Javascrit based weather application (uses weather api)
 - 📱 [**QR Code Generator**](https://varshaya.github.io/QR-code-generator/) - Qr code generator app.
 - 📅 [**React Daily Planner**](https://github.com/varshaya.github.io/react-planner) – React-based planner with calendar, clock, to-do list & Notes
