@@ -11,6 +11,7 @@ Here are some of the cool things I’ve built:
 - 🍓 [**Pomodoro Timer**](https://timer-self-five.vercel.app/) - A Pomodoro Focus Timer 
 - ☀️ [**Weather App**](https://varshaya.github.io/weather-app/) - Javascrit based weather application (uses weather api)
 - 📱 [**QR Code Generator**](https://varshaya.github.io/QR-code-generator/) - Qr code generator app.
+- 🗒️ [**TODO-List**](https://todo-list-space-varshayas-projects.vercel.app/) - A Todo list app that uses browser's local storage.
 - 📅 [**React Daily Planner**](https://github.com/varshaya.github.io/react-planner) – React-based planner with calendar, clock, to-do list & Notes
 
 #### Machine Learning Projects:
